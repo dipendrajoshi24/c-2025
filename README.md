@@ -1,3 +1,3 @@
-# in 2025-01-01 all codes written
-# Author-Dipendra
-All types of c programming qustions code
+# This c programming codes written in 2025 
+# Author-Dipendra Joshi
+# All types of c programming qustions code.
