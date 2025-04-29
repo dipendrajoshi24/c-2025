@@ -9,9 +9,5 @@ Well-structured C programs  <br>
 Efficient and optimized code  <br>  
 Useful for beginners and advanced learners  
 
-
-License
-This project is open-source and free to use.
-
-# Author:Dipendra Joshi
+ Author:Dipendra Joshi
 
