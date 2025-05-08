@@ -8,6 +8,3 @@ This repository is a collection of C programs covering various concepts, algorit
 Well-structured C programs  <br>  
 Efficient and optimized code  <br>  
 Useful for beginners and advanced learners  
-
- Author:Dipendra Joshi
-
