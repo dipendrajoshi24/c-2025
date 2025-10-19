@@ -4,7 +4,8 @@ This repository contains C programming codes written by Dipendra Joshi at the st
 Description
 This repository is a collection of C programs covering various concepts, algorithms, and problem-solving approaches.
 
-## Features  
+## Features 
+ 
 Well-structured C programs  <br>  
 Efficient and optimized code  <br>  
 Useful for beginners and advanced learners  
