@@ -6,4 +6,4 @@ This repository is a collection of C programs covering various concepts, algorit
 ## Features 
 Well-structured C programs  <br>  
 Efficient and optimized code  <br>  
-Useful for beginners and advanced learners  
+Useful for beginners and advanced learners . 
